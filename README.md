@@ -77,7 +77,7 @@ cd CarRental-Fullstack
 ## 🔧 Backend Setup
 ### 2️⃣ Install dependencies:
 ```
-cd server
+cd backend
 npm install
 ```
 ### 3️⃣ Create .env file:
@@ -95,7 +95,7 @@ npm start
 ## 🎨 Frontend Setup
 ### 5️⃣ Install frontend dependencies:
 ```
-cd ../client
+cd ../frontend
 npm install
 ```
 ### 6️⃣ Run frontend:
